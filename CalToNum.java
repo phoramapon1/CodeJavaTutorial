@@ -45,6 +45,6 @@ public class CalToNum {
                 System.out.println("choose the wrong menu ");
                 break;
         }
-
+        scanner.close();
     }
 }  
